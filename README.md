@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Java-11B48A?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"> 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white">
 
 ### **Education & Experience**
 ```🏫``` Ajou University / Digital Media (2018.03 ~ 2024.02)<br/>
