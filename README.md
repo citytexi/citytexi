@@ -23,6 +23,7 @@
 ```🏫``` Ajou University / Digital Media (2018.03 ~ 2024.02)<br/>
 ```🏫``` Google Developer Students Club Ajou (2022.10 ~ 2023.10)<br/>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=huihun66)](https://solved.ac/huihun66)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=huihun66)](https://solved.ac/huihun66)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citytexi&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&bg_color=30,b3bfff,ccdaff&title_color=fff&text_color=fff&&hide=makefile,HTML)
