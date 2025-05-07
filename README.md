@@ -1,6 +1,6 @@
 ### **Introduction**
 
-- 안녕하세요! 2년차 Android 개발자 전희훈입니다.
+- 안녕하세요! 3년차 Android 개발자 전희훈입니다.
 - 개발자로 끊임 없이 발전하기 위해 노력하는 중입니다.
 - 꾸준하게 발전하기 위해 문제 풀이와 기술 블로그 운영을 하고 있습니다.
 - Clean Code 작성에 대해 관심을 갖고 고민하고 있습니다.
@@ -10,6 +10,14 @@
 - pleasurehun99@gmail.com
 - **[Tech Blog](https://citytexi.tistory.com/)**
 - **[Notion](https://bit.ly/3Pm5apJ)**
+
+### **Repo**
+- [YouTrack Report CMP Bug](https://github.com/citytexi/cmpDialogBug)
+- [Learning Repo](https://github.com/citytexi/daily)
+- [Open Source Contribute](https://github.com/adamglin0/compose-shadow)
+- [SoonGan Repo](https://github.com/captures-2024/soongan-android)
+- [ReRollBag Repo](https://github.com/ReRollBag/ReRollBag-Android)
+- [Entrip Repo](https://github.com/Entrip-Ajou/Entrip-Android)
 
 ### **Tech Stacks**
 <div>
