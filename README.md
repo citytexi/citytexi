@@ -9,7 +9,7 @@
 
 - pleasurehun99@gmail.com
 - **[Tech Blog](https://citytexi.tistory.com/)**
-- **[Notion](https://bit.ly/3Pm5apJ)**
+- **[Notion](https://pleasurehun99.notion.site/)**
 
 ### **Repo**
 - [YouTrack Report CMP Bug](https://github.com/citytexi/cmpDialogBug)
