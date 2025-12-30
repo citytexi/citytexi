@@ -8,7 +8,7 @@
 
 - pleasurehun99@gmail.com
 - **[Tech Blog](https://citytexi.tistory.com/)**
-- **[Notion](https://pleasurehun99.notion.site/)**
+- **[Notion resume](https://pleasurehun99.notion.site/)**
 
 ### **Project Repo**
 - [SoonGan Repo](https://github.com/captures-2024/soongan-android)
@@ -35,6 +35,3 @@
 ```🏫``` Google Developer Students Club Ajou (2022.10 ~ 2023.10)<br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=huihun66)](https://solved.ac/huihun66)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citytexi&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&bg_color=30,b3bfff,ccdaff&title_color=fff&text_color=fff&&hide=makefile,HTML)
