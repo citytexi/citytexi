@@ -10,13 +10,17 @@
 - **[Tech Blog](https://citytexi.tistory.com/)**
 - **[Notion](https://pleasurehun99.notion.site/)**
 
-### **Repo**
-- [YouTrack Report CMP Bug](https://github.com/citytexi/cmpDialogBug)
-- [Learning Repo](https://github.com/citytexi/daily)
-- [Open Source Contribute](https://github.com/adamglin0/compose-shadow)
+### **Project Repo**
 - [SoonGan Repo](https://github.com/captures-2024/soongan-android)
 - [ReRollBag Repo](https://github.com/ReRollBag/ReRollBag-Android)
 - [Entrip Repo](https://github.com/Entrip-Ajou/Entrip-Android)
+
+### **Contribution Repo**
+- [cmpDialogBug](https://github.com/citytexi/cmpDialogBug) - YouTrack Report CMP Bug
+- [adamglin0/compose-shadow](https://github.com/adamglin0/compose-shadow)
+
+### **Etc Repo**
+- [Learning Repo](https://github.com/citytexi/daily)
 
 ### **Tech Stacks**
 <div>
